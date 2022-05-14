@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries Decision Maths Feeder Trend Indicator ANSITerminal lwt.unix core))

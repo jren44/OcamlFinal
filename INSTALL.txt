@@ -1,0 +1,9 @@
+external libraries used:
+1. core: run `opam install core'
+
+to run main loop:
+1. make build
+2. make play 
+
+to run test suite:
+1. make test
