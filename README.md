@@ -1,7 +1,7 @@
 # Autonomous Crypto Trading Bot
 Run `make build`, then `make play` to view the autonomous trading bot in action. 
 ## Output at Termination of Program
-![Trading Bot Output](https://cdn.discordapp.com/attachments/895486537318428732/975141332890828900/unknown.png)
+![Trading Bot Output](https://i.ibb.co/D9sVhT3/gries.png)
 <br> Our algorithm made a profit of $27,863.78, which generates $24,478.54 more than if the trader held their positions for the duration of the trading period.
 ## Introduction
 This is a crypto trader that trades on the price of the cryptocurrency Etheruem, aka ETH. We make our decision based on three different factors. At the very core, the decision algorithm’s sensitivity to each of these factors is adjustable with hyperparameters. <br><br>
